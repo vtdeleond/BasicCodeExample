@@ -1,3 +1,7 @@
+/*
+** @Autor Van Troi De Leon
+*/
+
 import java.util.*;
 
 public class GenToken {
