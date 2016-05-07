@@ -1,5 +1,4 @@
 (function() {
-    ///
     //https://code.google.com/p/crypto-js/
     function getMD5() {
         //var tmpvt = $(document).find('form').html();//document.documentElement.innerHTML;
