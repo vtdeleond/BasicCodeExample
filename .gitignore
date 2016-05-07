@@ -1,5 +1,3 @@
 *.class
-.sublime+
-.sublime-*
 *.sublime-workspace
 *.sublime-project
