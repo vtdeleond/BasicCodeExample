@@ -24,7 +24,7 @@
         //
         function tpAsignaEventosOnclickButton () {
             var tpAccion = $('#idACCION').val();
-            if (tpAccion == 'CON-') {
+            if (tpAccion == 'CON_') {
                 var tpHashCON = getMD5();
                 if (tpHashCON.words.join() != tmpvtd2.words.join()) {
                     if (!confirm('Hubo cambios en la trasacción, perdera los cambios. ¿Proceder? ')) {
