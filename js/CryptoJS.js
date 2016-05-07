@@ -2,7 +2,7 @@
     //https://code.google.com/p/crypto-js/
     //SourceTree
     function getMD5() {
-        //
+        //var
         var tmpvt = new Array();
         var tpHash;
         //
