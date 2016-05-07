@@ -1,6 +1,6 @@
 @echo off
 setlocal enableDelayedExpansion enableextensions
-for /f %%i in ("%0") do set DIR=%%~dpi
+
 REM DEFINE DELIMETER FOR WINDOWS IF SOMEONE WANTS TO TRANSCODE TO BASH.
 SET DIRDELIMITER=\
 
