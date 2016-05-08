@@ -1,6 +1,6 @@
 (function() {
     //https://code.google.com/p/crypto-js/
-    //GiKraken
+    //
     function getMD5() {
         //
         var tmpvt = new Array();
