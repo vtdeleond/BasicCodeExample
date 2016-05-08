@@ -15,7 +15,7 @@
     }
 
     function tpAsignaEventos() {
-        $('#AAA').on('click', function() {
+        $('#BBB').on('click', function() {
             getMD5();
         });
         //
